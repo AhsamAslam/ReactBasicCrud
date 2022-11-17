@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana,
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+h1 {
+  font-size: 30px;
+  padding: 20px 0px;
+  text-align: center;
+}
+h2 {
+  font-size: 25px;
+  padding: 20px 0px;
+}
+p {
+  font-size: 20px;
+  padding: 20px 0px;
+}
+label {
+  font-size: 16px;
+  padding-top: 10px;
+  color: rgb(53, 53, 94);
+}
+input {
+  font-size: 14px;
+}
+button {
+  margin: 20px 0px;
+}
+.btn {
+  font-size: 14px;
+  color: #fff;
+}
+th {
+  font-size: 16px;
+  font-weight: 600;
+  color: rgb(53, 53, 94);
+}
+td {
+  font-size: 14px;
+}
